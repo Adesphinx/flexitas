@@ -1,0 +1,10 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_gratuity_advice_user,gratuity.advice,model_gratuity_advice,,1,1,1,1
+access_gratuity_line_user,gratuity.line,model_gratuity_line,,1,1,1,1
+access_gratuity_advice_manager,gratuity.advice,model_gratuity_advice,,1,1,1,1
+access_gratuity_line_manager,gratuity.line,model_gratuity_line,,1,1,1,1
+
+
+
+
+
